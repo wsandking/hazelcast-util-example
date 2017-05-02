@@ -1,0 +1,12 @@
+.classpath
+.project
+.settings/
+.factorypath
+*.log
+bin
+*~
+target
+*.iml
+.idea
+*.orig
+*.mvn
